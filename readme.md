@@ -2,7 +2,7 @@
 
 ## Authors
 
-Calvin & Lex Wong
+Calvin Vu & Lex Wong
 
 ## About
 
