@@ -2,10 +2,9 @@ site_name: Discord User Documentation
 
 theme:
   name: material
-  palette: 
-
+  palette:
     # Palette toggle for light mode
-    - palette: 
+    - palette:
       primary: Light green
       accent: deep blue
       toggle:
@@ -17,7 +16,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-  
+
   features:
     - toc.integrate
 
