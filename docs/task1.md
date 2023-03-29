@@ -11,29 +11,44 @@ This section will teach you how to create and set up a Discord server for school
 ### Creating a Server
 
 1. Click the "+" button located at the bottom of the server side bar.
-    ![Step 1](./assets/Task1/Screen%20Shot%202023-03-28%20at%209.52.24%20AM.png) { height="100" }
-
 2. Click "Create My Own".
+    <figure markdown>
+        <img src="https://i.ibb.co/yqCNdfm/Screen-Shot-2023-03-28-at-9-55-33-AM.png" width="500">
+    </figure>
 3. Click "For a Club or Community".
+    <figure markdown>
+        <img src="https://i.ibb.co/rbVc3d3/Screen-Shot-2023-03-28-at-9-55-46-AM.png">
+    </figure>
 > What is the difference between a Community server and a Friend server?  
-> A Community server has additional features to keep the server safe and to 
+> A Community server has additional features to keep the server safe and to accommodate many users.
 4. Click on the dotted circle with a camera framed in the middle labelled "Upload".
 5. Navigate to the location of the image you desire as a server photo and click open.
 6. Change the server name.
-7. Click "Create"
+7. Click "Create".
 8. Click the down arrow next to the server name to open up the server settings menu.
 
 ### Setting up your Server
+
+1. Click "Enable Community".
+2. Click "Get Started".
+3. Enable "Verified email require" and "Scan media content from all members".
+4. Allow Discord to create a rules and community updates channel for you.
+5. Click "I agree and understand".
+6. Set "Rules or Guidelines" channel to #rules, "Community updates" to #moderator-only, and set the Language.
+7. Click "Set up Welcome Screen".
+8. Add a description for the server.
+9. Enable the changes.
+10. Add rules to #rules.
 
 ### Making roles
 
 1. Click on "Server Settings".
 2. Click on "Roles".
-3. Click on "Create Roles"
+3. Click on "Create Roles".
 
 #### Create set roles
 
-1. Under “Display”, change the Role Name and Role Colour. (eg. Set A, Set B)
+1. Under “Display”, change the Role Name and Role Colour. (eg. Set A, Set B).
 2. Under “Permissions”, turn on the permissions:
 > Under “General Server Permissions”:
 >
@@ -65,7 +80,9 @@ This section will teach you how to create and set up a Discord server for school
 
 #### Create moderator roles
 
-1. Under “Display”, change the Role Name and Role Colour. (eg. Moderator, Set Rep)
+1. Under “Display”, change the Role Name and Role Colour. (eg. Moderator, Set Rep).
 2. Under “Permissions”, scroll until the bottom and enable "Administrator".
 
 ## Conclusion
+
+Congrats! You have now created and set up a school server.
