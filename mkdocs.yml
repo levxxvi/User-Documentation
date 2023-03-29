@@ -6,8 +6,8 @@ theme:
 
     # Palette toggle for light mode
     - palette: 
-      primary: light blue
-      accent: deep purple
+      primary: Light green
+      accent: deep blue
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
