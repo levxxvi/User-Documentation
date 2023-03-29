@@ -13,6 +13,7 @@ This section will teach you how to create and set up a Discord server for school
 2. Click "Create My Own".
 3. Click "For a Club or Community".
 
+
 ### Setting up your Server
 
 ### Making roles
