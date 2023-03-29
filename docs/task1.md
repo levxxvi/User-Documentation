@@ -25,7 +25,6 @@ This section will teach you how to create and set up a Discord server for school
 
 ### Setting up your Server
 
-
 ### Making roles
 
 1. Click on "Server Settings".
@@ -36,25 +35,32 @@ This section will teach you how to create and set up a Discord server for school
 
 1. Under “Display”, change the Role Name and Role Colour. (eg. Set A, Set B)
 2. Under “Permissions”, turn on the permissions:
-Under “General Server Permissions”:
-* “View Channels”
-* Under “Membership Permissions”:
-    * “Change Nickname”
-* Under “Text Channel Permissions”:
-    * “Send Messages and Create Posts”
-    * “Send Messages in Threads and Posts”
-    * “Create Public Threads”
-    * “Embed Links”
-    * “Attach Files”
-    * “Add Reactions”
-    * “Use External Emoji”
-    * “Use External Stickers”
-    * “Read Message History”
-    * “Use Application Commands”
-* Under “Voice Channel Permissions”
-    * “Connect”
-    * “Speak”
-    * “Video”
+> Under “General Server Permissions”:
+>
+>      “View Channels”
+>
+> Under “Membership Permissions”:
+>
+>     “Change Nickname”
+>
+> Under “Text Channel Permissions”:
+>
+>     “Send Messages and Create Posts”
+>     “Send Messages in Threads and Posts”
+>     “Create Public Threads”
+>     “Embed Links”
+>     “Attach Files”
+>     “Add Reactions”
+>     “Use External Emoji”
+>     “Use External Stickers”
+>     “Read Message History”
+>     “Use Application Commands”
+>
+> Under “Voice Channel Permissions”
+>
+>     “Connect”
+>     “Speak”
+>     “Video”
 3. Save your changes.
 
 #### Create moderator roles
