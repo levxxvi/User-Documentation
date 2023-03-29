@@ -1,4 +1,4 @@
-# Task Name
+# Setting up a school server
 
 ## Overview
 
