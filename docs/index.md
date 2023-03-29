@@ -13,7 +13,9 @@ This documentation is tailored to users who are:
 
 ## Prerequisite Knowledge
 
-The documentation is very new user friendly! All our steps are for Discord Desktop.
+The documentation is very new user friendly! All our steps are for Discord Desktop, so please have that installed.
+
+If you don't have it installed, please click [here](https://discord.com/download).
 
 ## An Overview of Features:
 
