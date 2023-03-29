@@ -1,17 +1,19 @@
 # Introduction
+Welcome the Discord documentation! This documentation will provide guidance on some practical features and usage of Discord. 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Discord is widely used as a communication platform, hosting a wide range of communities from gaming to bussinesses that allows for people to connect with others online.
 
 ## Intended Users
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+This documentation is tailored to users who are:
+
+* New to discord
+* Familiar with discord, but unaware with creating and customizing  their own server and using customized discord bots
 
 ## Prerequisite Knowledge
+The documentation is very new user friendly!
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## An Overview of Features:
+* #### Creating your own discord server
+* #### Customizing your discord server
+* #### Adding and using customized bots to your server
