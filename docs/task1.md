@@ -1,7 +1,5 @@
 # Creating & Setting up a school server
 
-<!-- Todo: add and format images, fix nested lists -->
-
 ## Overview
 
 This section will teach you how to create and set up a Discord server for school.
@@ -22,10 +20,22 @@ This section will teach you how to create and set up a Discord server for school
 > What is the difference between a Community server and a Friend server?  
 > A Community server has additional features to keep the server safe and to accommodate many users.
 4. Click on the dotted circle with a camera framed in the middle labelled "Upload".
+    <figure markdown>
+        <img src="https://i.ibb.co/44GwG23/Screen-Shot-2023-03-28-at-9-56-19-AM.png">
+    </figure>
 5. Navigate to the location of the image you desire as a server photo and click open.
 6. Change the server name.
+    <figure markdown>
+        <img src="https://i.ibb.co/R3H40fz/Screen-Shot-2023-03-28-at-9-56-53-AM.png">
+    </figure>
 7. Click "Create".
+    <figure markdown>
+        <img src="https://i.ibb.co/kh1rZ31/Screen-Shot-2023-03-28-at-9-57-11-AM.png">
+    </figure>
 8. Click the down arrow next to the server name to open up the server settings menu.
+    <figure markdown>
+
+    </figure>
 
 ### Setting up your Server
 
@@ -46,7 +56,7 @@ This section will teach you how to create and set up a Discord server for school
 2. Click on "Roles".
 3. Click on "Create Roles".
 
-#### Create set roles
+#### Creating set roles
 
 1. Under “Display”, change the Role Name and Role Colour. (eg. Set A, Set B).
 2. Under “Permissions”, turn on the permissions:
@@ -78,10 +88,16 @@ This section will teach you how to create and set up a Discord server for school
 >     “Video”
 3. Save your changes.
 
-#### Create moderator roles
+#### Creating moderator roles
 
 1. Under “Display”, change the Role Name and Role Colour. (eg. Moderator, Set Rep).
 2. Under “Permissions”, scroll until the bottom and enable "Administrator".
+
+#### Giving out roles
+
+1. Click the profile picture of a user.
+2. Click the "+" button under "No Roles".
+3. Add a role.
 
 ## Conclusion
 
