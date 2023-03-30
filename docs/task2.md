@@ -1,74 +1,48 @@
 # Customizing a new Discord Server 
 
 ## Overview
-In this section, we will focus on several different features to customize a discord server to improve the experience of server members. 
+This section will focus on several different features to customize a discord server. Server owners will have options in customizing and tailoring their discord server to improve the experience of their members. 
 
-## Steps
+## Accessing Server Settings
 
-1. Visit [<b>top.gg</b>](https://top.gg/) or any other discord bot website to view available public customized discord bots.
+1. Click on the server name tab within your server.
 
+2. Click on the server settings option
 
-    ![top.gg link |200px](./assets/taskTwo/Step1.png)
+## Changing the server profile picture
 
-    <figure markdown>
+1. View the current server image by accessing the server settings.
 
-    <img src="assets/taskTwo/Step1.png" width="1000" </img>
+2. Click on the upload image button to select a new image to upload for the server profile picture.
 
-    <figcaption>Image caption</figcaption>
-    </figure>
-     
-  
-    Browse for discord bots and the features that you want to add to your Discord server. 
+3. Click on save changes.
 
-2. Retrieve the discord URL of the bot to add to your server.
+## Changing the server name
+
+1. View the current server name by accessing the server settings.
+
+2. Fill in a new server name in the input.
+
+3. Click on save changes.
+
+## Uploading Stickers/GIFS
+
+1. Access the server settings.
+
+2. Click on the sticker tab.
+
+3. Click on the free sticker/gif slots.
+    Each server is allowed to have up to 5 sticker/GIF slots that can be uploaded.
+
+    Subsequent slots are unlocked by boosting the server status.
     
-    ![Discord URL](./assets/taskTwo/Step2.png)
-
-    For top.gg, you can simply click invite on the bot you want and it will direct you to the discord bot URL.
-
-    ![Discord URL](./assets/taskTwo/Step2.1.png)
-
-
-3. Enter the URL into your browser.
-
-
-4. Select the server that you want to add the discord bot to. 
-
-    ![Discord URL](./assets/taskTwo/Step3.png)
-
-    You must have the **Manage Server** permission enabled in your server. This setting should be already enabled when creating a new server. 
-
-
-5. Select the server permissions that the bot will have access to.  
-![Discord URL](./assets/taskTwo/Step4.png)  
-Permissions must be enabled to allow for certain features that the bot will do.
-
-    > Create Invite - Allow the bot to generate invites to your server
-    >
-    > Read Messages - Allow the bot to read messages in the server (Important for  commands) 
-    >
-    Send Message - Allow for the bot to respond to messages (Import for commands)
-    >
-    > Embed Links - Allow for the bot to send embedded links 
-    >
-    > Attach files - Allow for the bot to attach files to message responses
-    >
-    > Read message history - Allow for the bot to read previous messages in the server
-    >
-    > Add reactions - Allow the bot to utilize emoji reactions in the server
-    >
-    > Use External Image - Allow the bot to use external images
-    >
-
-6. Click the authorize to confirm your settings and to add the discord bot to your server.
-
-![Discord URL](./assets/taskTwo/Step5.png)
-
-    
-
-    
-
-
-
+    What is Server Boosting?
+    Server members can use a discord server boost to help servers unlock additional features and perks. The server owner can also pay additional fees to boost their server as well.
+4. Click on the server boost tab to view the server's current boost status and perks (Optional).
 
 ## Conclusion
+
+Congratulations, you're server is now fully customized! 
+
+## Whats Next?
+Head over to <a href="../task3">Adding a Custom Discord Bot</a> to learn how to add interactive discord bots to a server.
