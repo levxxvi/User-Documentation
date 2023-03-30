@@ -3,34 +3,34 @@
 ## Overview
 In this section
 
-## Adding a new discord bot
 
 1. Visit [<b>top.gg</b>](https://top.gg/) or any other discord bot website to view available public customized discord bots.
 
-    ![Discord URL](./assets/taskTwo/Step1.png) 
+    <img src="https://i.ibb.co/KXH6QrJ/Step1.png" alt="Step1" width="500px">
 
     Browse for discord bots and the features that you want to add to your Discord server.
 
 2. Retrieve the discord URL of the bot to add to your server.
-    
-    ![Discord URL](./assets/taskTwo/Step2.png)
+
+    An example of a URL to add a discord bot
+
+    <img src="https://i.ibb.co/ftghVP1/Step2.png" alt="Step2" border="0">
 
     For top.gg, you can simply click invite on the bot you want and it will direct you to the discord bot URL.
 
-    ![Discord URL](./assets/taskTwo/Step2.1.png)
-
+    <img src="https://i.ibb.co/sP9yYpz/Step2-1.png" alt="Step2-1" width="400px">
 
 3. Enter the URL into your browser.
 
 
 4. Select the server that you want to add the discord bot to. 
 
-    ![Discord URL](./assets/taskTwo/Step3.png)
+    <img src="https://i.ibb.co/G2kPkCN/Step3.png" alt="Step3" width="300px">
 
     You must have the **Manage Server** permission enabled in your server. This setting should be already enabled when creating a new server. 
 
 5. Select the server permissions that the bot will have access to.  
-![Discord URL](./assets/taskTwo/Step4.png)
+<img src="https://i.ibb.co/DG06qmd/Step4.png" alt="Step4" width="250px">
 <br></br>
 Permissions must be enabled to allow for certain features that the bot will do.
 
@@ -51,25 +51,30 @@ Permissions must be enabled to allow for certain features that the bot will do.
     > Use External Image - Allow the bot to use external images
     >
 
-<br></br>
+
 6. Click the authorize to confirm your settings and to add the discord bot to your server.
 
-![Discord URL](./assets/taskTwo/Step5.png)
-7. Await the authorized confirmation. Once it has appeared, you may close the browser/window. 
+    <img src="https://i.ibb.co/D59SfJ5/Step5.png" alt="Step5"width="250px">
 
-![Discord URL](./assets/taskTwo/Step6.png)
-8. Confirm in your server that the discord bot has been added. 
-
-![Discord URL](./assets/taskTwo/Step6.png)
+7. Await the authorized confirmation. Once it has appeared, you may close the browser/window.
+<br></br>
+<img src="https://i.ibb.co/C2fv56d/Step6.png" alt="Step6" width="270px" ">
+8. Confirm in your server that the discord bot has been added.
+<br></br>
+<img src="https://i.ibb.co/6XSmCDY/Step7.png" alt="Step7" width="500px">
 9. Congratulations! You should now see the bot online in the list of server members on the right.
+<br></br>
+<img src="https://i.ibb.co/3v5jR8X/Step-7-1.png" alt="Step-7-1" width="390px">
 
 ## Using Discord bot commands
 
-1. Locate the bot's profile in the server list on the right.
+1. Locate the bot's profile in the server list.
+
 2. Click on the bots name to view more information about the bot.
     <br></br>
-    The information presented may vary from bot:
-    
+    <img src="https://i.ibb.co/ZBxTD7T/Step-8-1.png" alt="Step-8-1" width="450px">
+    <br></br>
+
     > About Me: Information about the 
     >
     > Member Since: Date since the bot was a member of your server
@@ -78,11 +83,16 @@ Permissions must be enabled to allow for certain features that the bot will do.
     >
 3. View information regarding your bots commands.
 
-    Discord bot commands are entered through the message input.
-
+<br></br>
 4. Type the desired command with the appropriate command prefix.
+    <br></br>
+    <img src="https://i.ibb.co/FqKJ6b9/Step-8-05.png" alt="Step-8-05"  width="250px">
 
-5. Press Enter
+    Discord bot commands are entered through the message input.
+<br></br>
+5. Press Enter to confirm your command.
+
+<img src="https://i.ibb.co/n60J3QJ/Step8-commands.png" alt="Step8-commands" width="250px">
 
     The bot will provide the corresponding function and feedback to confirm the status of the command.
 

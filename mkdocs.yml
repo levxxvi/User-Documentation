@@ -2,6 +2,9 @@ site_name: Discord User Documentation
 
 theme:
   name: material
+  icon:
+    admonition:
+      note: octicons/question-16
   palette:
     # Palette toggle for light mode
     - palette:
@@ -16,7 +19,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-
+      
   features:
     - toc.integrate
 
@@ -24,3 +27,7 @@ theme:
     - attr_list
     - md_in_html
     - def_list
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - codehilite
