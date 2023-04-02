@@ -2,13 +2,15 @@
 
 ## Possible Problems
 
-### Problem 1
+### Setting up audio
 
 #### Solution
 
-### Problem 2
+### Audio and Video Calling
 
-#### Solution
+#### Starting Calls
+
+#### Ending Calls
 
 ### Problem 3
 
