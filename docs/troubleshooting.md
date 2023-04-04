@@ -8,7 +8,6 @@
 | `PUT`       | :material-check-all: Update resource |
 | `DELETE`    | :material-close:     Delete resource |
 
-
 ### Audio and Video Calling
 
 | Error       | Description                          |
@@ -18,6 +17,7 @@
 | `DELETE`    | :material-close:     Delete resource |
 
 ### Adding a customized Discord Bot
+
 | Error       | Description                          |
 | :---------- | :----------------------------------- |
 | `My server does not show up when I try to add my discord bot`       | :material-check:     Ensure that the manage server permission is enabled in your server.
