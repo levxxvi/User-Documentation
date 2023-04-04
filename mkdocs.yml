@@ -1,10 +1,22 @@
 site_name: Discord User Documentation
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - def_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - codehilite
+
 theme:
   name: material
   icon:
     admonition:
-      note: octicons/question-16
+      info: fontawesome/solid/circle-info
+      warning: fontawesome/solid/triangle-exclamation
+      success: fontawesome/solid/check
+
   palette:
     # Palette toggle for light mode
     - palette:
@@ -19,15 +31,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-      
+
   features:
     - toc.integrate
-
-  markdown_extensions:
-    - attr_list
-    - md_in_html
-    - def_list
-    - admonition
-    - pymdownx.details
-    - pymdownx.superfences
-    - codehilite
