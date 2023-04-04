@@ -12,7 +12,7 @@
 
 #### Ending Calls
 
-### Problem 3
+### Game activity
 
 #### Solution
 
