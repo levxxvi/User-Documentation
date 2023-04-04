@@ -6,31 +6,31 @@ In this section, the focus will be to add an existing customized discord bot to 
 
 1. Visit [<b>top.gg</b>](https://top.gg/) or any other discord bot website to view available public customized discord bots.
     <figure>
-        <img src="https://i.ibb.co/KXH6QrJ/Step1.png" alt="Step1" width="600px" align-items="center">
+        <img src="https://i.ibb.co/KXH6QrJ/Step1.png" alt="Step1" width="600px" style="margin: 30px">
     </figure>
 
-    Browse for discord bots and the features that you want to add to your Discord server.
+    !!! info "Additional Bots"
+        Browse for discord bots and the features that you want to add to your Discord server. There are a variety of bots that you can find and use for the purpose of your server!
 
 2. Retrieve the discord URL of the bot to add to your server.
 
     An example of a URL to add a discord bot
      <figure>
-        <img src="https://i.ibb.co/ftghVP1/Step2.png" alt="Step2" border="0">
+        <img src="https://i.ibb.co/ftghVP1/Step2.png" alt="Step2" style="margin: 30px">
     </figure>
 
     For top.gg, you can simply click invite on the bot you want and it will direct you to the discord bot URL.
 
     <figure>
-        <img src="https://i.ibb.co/sP9yYpz/Step2-1.png" alt="Step2-1" width="500px">
+        <img src="https://i.ibb.co/sP9yYpz/Step2-1.png" alt="Step2-1" width="500px" style="margin: 39px">
     </figure>
 
 3. Enter the URL into your browser.
 
-
 4. Select the server that you want to add the discord bot to. 
 
     <figure>
-        <img src="https://i.ibb.co/G2kPkCN/Step3.png" alt="Step3" width="300px">
+        <img src="https://i.ibb.co/G2kPkCN/Step3.png" alt="Step3" width="300px" style="margin-top: 20px; margin-bottom: 15px">
     </figure>
 
     You must have the **Manage Server** permission enabled in your server. This setting should be already enabled when creating a new server. 
@@ -38,7 +38,7 @@ In this section, the focus will be to add an existing customized discord bot to 
 5. Select the server permissions that the bot will have access to.  
 
 <figure>
-    <img src="https://i.ibb.co/DG06qmd/Step4.png" alt="Step4" width="250px">
+    <img src="https://i.ibb.co/DG06qmd/Step4.png" alt="Step4" width="250px" style="margin-top: 20px; margin-bottom: 15px">
 </figure>
 
 <br></br>
@@ -65,27 +65,26 @@ Permissions must be enabled to allow for certain features that the bot will do.
 6. Click the authorize to confirm your settings and to add the discord bot to your server.
 
 <figure>
-    <img src="https://i.ibb.co/D59SfJ5/Step5.png" alt="Step5"width="250px">
+    <img src="https://i.ibb.co/D59SfJ5/Step5.png" alt="Step5"width="250px" style="margin-top: 20px; margin-bottom: 15px">
 </figure>
 
 <br></br>
 7. Await the authorized confirmation. Once it has appeared, you may close the browser/window.
-<br></br>
+
 <figure>
-    <img src="https://i.ibb.co/C2fv56d/Step6.png" alt="Step6" width="270px" ">
+    <img src="https://i.ibb.co/C2fv56d/Step6.png" alt="Step6" width="270px" style="margin-top: 30px">
 </figure>
 <br></br>
 8. Confirm in your server that the discord bot has been added.
-<br></br>
+
 <figure>
-    <img src="https://i.ibb.co/6XSmCDY/Step7.png" alt="Step7" width="500px">
+    <img src="https://i.ibb.co/6XSmCDY/Step7.png" alt="Step7" width="500px" style="margin-top: 30px">
 </figure>
 <br></br>
 9. Congratulations! You should now see the bot online in the list of server members on the right.
-<br></br>
 
 <figure>
-    <img src="https://i.ibb.co/3v5jR8X/Step-7-1.png" alt="Step-7-1" width="390px">
+    <img src="https://i.ibb.co/3v5jR8X/Step-7-1.png" alt="Step-7-1" width="390px" style="margin-top: 30px">
 </figure>
 
 ## Using Discord bot commands
@@ -95,35 +94,56 @@ Permissions must be enabled to allow for certain features that the bot will do.
 2. Click on the bots name to view more information about the bot.
     <br></br>
     <figure>
-        <img src="https://i.ibb.co/ZBxTD7T/Step-8-1.png" alt="Step-8-1" width="450px">
+        <img src="https://i.ibb.co/ZBxTD7T/Step-8-1.png" alt="Step-8-1" width="450px" style="margin-top: 15px; margin-bottom: 30px">
     </figure>
 
-    > About Me: Information about the bot
-    >
-    > Member Since: Date since the bot was a member of your server
-    >
-    > Roles: The roles/permissions that are given to the bot
-    >
+    !!! info "Additional Information"
+        <b>About Me:</b> Information about the bot
+        <br>
+        <b>Member Since:</b> Date since the bot was a member of your serve
+        <br>
+        <b>Roles:</b> The roles/permissions that are given to the bot
+        
 3. View information regarding your bots commands.
 <br></br>
 
 4. Type the desired command with the appropriate command prefix.
     <figure>
-        <img src="https://i.ibb.co/FqKJ6b9/Step-8-05.png" alt="Step-8-05" >
+        <img src="https://i.ibb.co/F6PcXSK/Step-8-05.png" alt="Step-8-05" >
     </figure>
-    Discord bot commands are entered through the message input.
-<br></br>
+
+    !!! info "Additional Information"
+        Discord bot commands are entered through the message input.
+
 5. Press Enter to confirm your command.
-<figure>
-    <img src="https://i.ibb.co/n60J3QJ/Step8-commands.png" alt="Step8-commands">
-</figure>
-    The bot will provide the corresponding function and feedback to confirm the status of the command.
+    <figure>
+        <img src="https://i.ibb.co/n60J3QJ/Step8-commands.png" alt="Step8-commands" style="margin-top: 30px; margin-bottom: 20px">
+    </figure>
+
+    !!! info "Additional Information"
+        The bot will provide the corresponding function and feedback to confirm the status of the command.
 
 ## Removing a bot from a Server
 
 1. Locate the bot's profile in the server list on the right.
+
+    <figure>
+        <img src="https://i.ibb.co/McnRgJh/image.png" alt="Step1" width="300px" style="margin-top: 30px; margin-bottom: 20px">
+    </figure>
+
 2. Right-click the bot to access options.
+
 3. Select the "Kick <BOT NAME>" to remove the bot from the server.
+    <figure>
+        <img src="https://i.ibb.co/QrGczT8/image.png" alt="Step2" width="160px"style="margin-top: 30px; margin-bottom: 30px">
+    </figure>
+
+!!! info "Additional Information" 
+    Other options are available as well including:
+    <br></br>
+    <b>Timeout "BOT NAME" </b>: Will timeout/cease bots function in the server for a specified amount of time
+    <br></br>
+    <b>Ban "BOT NAME" </b>: The bot remains in the server, but is banned from accessing any permissions
 
 ## Conclusion
 Congratulations! You have successfully added a custom discord bot to your server!
