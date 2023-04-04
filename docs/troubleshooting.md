@@ -12,14 +12,20 @@
 
 #### Ending Calls
 
-### Game activity
+### Adding a customized Discord Bot
 
-#### Solution
+#### My server does not show up when I try to add my discord bot
 
-### Problem 4
 
-#### Solution
+1. Ensure that the manage server permission is enabled in your server.
 
-### Problem 5
+    If you were not the person who created the server, you must have this permission enabled to be able to add a discord bot to the server. Ensure that the server owner enables this permission for moderators or members who are allowed to add bots to the server.
 
-#### Solution
+    By default, if you were the server creator, this will be enabled.
+
+#### Discord bot replies are very delayed or slow
+
+Check the discord status at https://discordstatus.com/ to see if there is anything affecting discord's speed.
+
+Otherwise, there simply may just be very high traffic on discord's network which may be causing this delay. If the issue does not resolve, attempt to kick the bot and re-invite to the server.
+
