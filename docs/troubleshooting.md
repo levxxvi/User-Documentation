@@ -1,29 +1,41 @@
 # Troubleshooting
 
-## Possible Problems
-
 ### Setting up audio
 
-#### Solution
+| Error       | Description                          |
+| :---------- | :----------------------------------- |
+| `Setting up audio`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
+
 
 ### Audio and Video Calling
 
-#### Starting Calls
-
-#### Ending Calls
+| Error       | Description                          |
+| :---------- | :----------------------------------- |
+| `Starting Calls`       | :material-check:     Fetch resource  |
+| `Ending Calls`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
 
 ### Adding a customized Discord Bot
+| Error       | Description                          |
+| :---------- | :----------------------------------- |
+| `My server does not show up when I try to add my discord bot`       | :material-check:     Ensure that the manage server permission is enabled in your server.
+
+    If you were not the person who created the server, you must have this permission enabled to be able to add a discord bot to the server. Ensure that the server owner enables this permission for moderators or members who are allowed to add bots to the server.
+
+    By default, if you were the server creator, this will be enabled.  |
+| `Discord bot replies are very delayed or slow`       | :material-check-all: Otherwise, there simply may just be very high traffic on discord's network which may be causing this delay. If the issue does not resolve, attempt to kick the bot and re-invite to the server.
+ |
+| `DELETE`    | :material-close:     Delete resource |
+
 
 #### My server does not show up when I try to add my discord bot
 
 
-1. Ensure that the manage server permission is enabled in your server.
+1.
 
-    If you were not the person who created the server, you must have this permission enabled to be able to add a discord bot to the server. Ensure that the server owner enables this permission for moderators or members who are allowed to add bots to the server.
-
-    By default, if you were the server creator, this will be enabled.
-
-#### Discord bot replies are very delayed or slow
+#### 
 
 Check the discord status at https://discordstatus.com/ to see if there is anything affecting discord's speed.
 
