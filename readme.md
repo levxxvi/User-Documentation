@@ -5,13 +5,8 @@
 Calvin Vu & Lex Wong
 
 ## About
+Welcome to the Discord Documentation! This guide is to provide new and existing users guidance towards Discord's advanced features outside of chatting inside a server. 
 
-Relevant information about what the instructions are about and the methods and process used to get to the final product.
+Please download the latest version of Discord and have an account set up. If you have an existing account you can simply login to the discord application.
 
-Commands:
-
-* `mkdocs new [dir-name]` - Create a new project.
-
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+//download link
