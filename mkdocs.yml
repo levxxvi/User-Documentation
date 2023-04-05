@@ -1,5 +1,13 @@
 site_name: Discord User Documentation
 
+nav:
+  - Home: index.md
+  - task1.md
+  - task2.md
+  - task3.md
+  - troubleshooting.md
+  - glossary.md
+
 markdown_extensions:
   - attr_list
   - md_in_html
