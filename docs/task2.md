@@ -1,6 +1,7 @@
 # Customizing a new Discord Server
 
 ## Overview
+
 This section will focus on several different features to customize a discord server. Server owners will have options in customizing and tailoring their discord server to improve the experience of their members.
 
 ## Accessing Server Settings
@@ -76,7 +77,10 @@ This section will focus on several different features to customize a discord ser
         Server members can use a discord server boost to help servers unlock additional features and perks. The server owner can also pay additional fees to boost their server as well.
 
 ## Conclusion
+
 !!! success "Congratulations!"
     Your server is now fully customized!
+
 ## Whats Next?
+
 Head over to <a href="../task3">Adding a Custom Discord Bot</a> to learn how to add interactive discord bots to a server.

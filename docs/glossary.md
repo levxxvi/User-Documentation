@@ -1,6 +1,7 @@
 # Glossary
 
 ## General
+
 | Definition     | Description                          |
 | :---------- | :----------------------------------- |
 | `Server`       | :material-check:     A discord server is a communication platform that allows for multiple users to chat with one another.  |
@@ -8,6 +9,7 @@
 | ``    | :material-close:     Delete resource |
 
 ## Discord Permissions
+
 | Permission      | Description                          |
 | :---------- | :----------------------------------- |
 | `Create Invite`       |  Allows the bot to generate invites to your server |
