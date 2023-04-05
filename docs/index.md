@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome the Discord documentation! This documentation will provide guidance on some practical features and usage of Discord.
+Welcome to the Discord documentation! This documentation will provide guidance on practical features and usages of Discord.
 
 Discord is widely used as a communication platform, hosting a wide range of communities from gaming to businesses that allows for people to connect with others online.
 
@@ -8,8 +8,8 @@ Discord is widely used as a communication platform, hosting a wide range of comm
 
 This documentation is tailored to users who are:
 
-* New to discord
-* Familiar with discord, but unaware with creating and customizing  their own server and using customized discord bots
+* New to Discord
+* Familiar with Discord, but unaware with creating a server, customizing their own server and using customized Discord bots
 
 ## Prerequisite Knowledge
 
