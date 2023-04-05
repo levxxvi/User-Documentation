@@ -1,8 +1,8 @@
 # Adding a Discord Bot to a Server
 
 ## Overview
-In this section, the focus will be to add an existing customized discord bot to your own server. This provides extra features and customization to your server for server members to use. 
 
+In this section, the focus will be to add an existing customized discord bot to your own server. This provides extra features and customization to your server for server members to use.
 
 1. Visit [<b>top.gg</b>](https://top.gg/) or any other discord bot website to view available public customized discord bots.
     <figure>
@@ -85,7 +85,6 @@ Permissions <b>must</b> be enabled to allow for certain bot features. Disabling 
         <img src="https://i.ibb.co/ZBxTD7T/Step-8-1.png" alt="Step-8-1" width="450px" style="margin-top: 15px; margin-bottom: 30px">
     </figure>
 
-        
 3. View information regarding your bots commands.
 
 !!! warning "What is a bot command?"
@@ -135,4 +134,5 @@ Permissions <b>must</b> be enabled to allow for certain bot features. Disabling 
     <b>Ban "BOT NAME" </b>: The bot remains in the server, but is banned from accessing any permissions
 
 ## Conclusion
+
 Congratulations! You have successfully added a custom discord bot to your server!
