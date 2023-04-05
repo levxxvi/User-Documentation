@@ -4,7 +4,7 @@
 
 | Error       | Description                          |
 | :---------- | :----------------------------------- |
-| `Setting up audio`       | :material-check:     Fetch resource  |
+| `Setting up audio`       | :material-check:     Go to User Settings and set your microphone, speaker and input mode under Voice & Video as needed.  |
 
 ### Audio and Video Calling
 
@@ -29,3 +29,9 @@
 | :---------- | :----------------------------------- |
 | `Speaking in calls but others can't hear: Permissions Issue`       | :material-check:     Open your app permissions and make sure you give Discord permission to access your microphone |
 | `Speaking in calls but others can't hear: Settings Issue`       | :material-check-all: Check if you are deafened or muted. Being deafened will mute yourself to others and mute others to you. Being muted will only mute yourself to others.  |
+
+### Setting Game Activity
+
+| Error       | Description                          |
+| :---------- | :----------------------------------- |
+| `Turn on or off Game Activity`       | :material-check:     Go to User Settings' Activity Settings and toggle "Display current activity as a status message" on or off to your preference.  |
