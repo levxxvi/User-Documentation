@@ -1,4 +1,4 @@
-# Creating & Setting up a school server
+# Creating & Setting Up a School Server
 
 ## Overview
 
@@ -26,7 +26,8 @@ This section will teach you how to create and set up a Discord server for school
     <figure markdown>
         <img src="https://i.ibb.co/44GwG23/Screen-Shot-2023-03-28-at-9-56-19-AM.png">
     </figure>
-5. Navigate to the location of the image you desire as a server photo and click open.
+5. Navigate to the location of the image you desire as a server photo and click "Open".
+    <!-- Add an image here? -->
 6. Change the server name.
     <figure markdown>
         <img src="https://i.ibb.co/R3H40fz/Screen-Shot-2023-03-28-at-9-56-53-AM.png">
@@ -36,6 +37,7 @@ This section will teach you how to create and set up a Discord server for school
         <img src="https://i.ibb.co/kh1rZ31/Screen-Shot-2023-03-28-at-9-57-11-AM.png">
     </figure>
 8. Click the down arrow next to the server name to open up the server settings menu.
+    <!-- Annotate where "Server Settings" is -->
     <figure markdown>
         <img src="https://i.ibb.co/qCGGjr3/Screen-Shot-2023-03-28-at-9-58-17-AM.png">
         <br>
@@ -43,7 +45,7 @@ This section will teach you how to create and set up a Discord server for school
     </figure>
 
 ### Setting up your Server
-
+<!-- Move this to Task 2 -->
 1. Click "Enable Community".
     <figure markdown>
         <img src="https://i.ibb.co/7GxC9cj/SUS1.png">
@@ -69,12 +71,14 @@ This section will teach you how to create and set up a Discord server for school
         <img src="https://i.ibb.co/5x26PFT/SUS6.png">
     </figure>
 7. Click "Set up Welcome Screen".
+    <!-- Add an image for where the button for set up welcome screen is -->
     <figure markdown>
         <img src="https://i.ibb.co/m9M3pmL/SUS7.png">
         <br>
         <img src="https://i.ibb.co/yX6sNFg/SUS9.png">
     </figure>
 8. Add a description for the server.
+    <!-- Why do they need to add a description -->
     <figure markdown>
         <img src="https://i.ibb.co/9Gpgv4T/SUS8-copy.png">
     </figure>
@@ -83,6 +87,7 @@ This section will teach you how to create and set up a Discord server for school
         <img src="https://i.ibb.co/T8FxdBH/SUS8.png">
     </figure>
 10. Add your own server rules to #rules.
+    <!-- Navigate back to server channels -->
     <figure markdown>
         <img src="https://i.ibb.co/C9Zrr1Y/SUS10.png">
     </figure>
@@ -97,18 +102,20 @@ This section will teach you how to create and set up a Discord server for school
     <figure markdown>
         <img src="https://i.ibb.co/fHmFhr8/MR2.png">
     </figure>
-3. Click on "Create Roles".
+3. Click on "Create Role".
     <figure markdown>
         <img src="https://i.ibb.co/HB1SKhW/MR3.png">
     </figure>
 
-#### Creating set roles
+#### Creating Set Roles
 
+<!-- Creating custom roles as a general on, and then have an info box that says "If you want to have mod roles, you can give them the administrator permission" -->
 1. Under “Display”, change the Role Name and Role Colour. (eg. Set A, Set B).
     <figure markdown>
         <img src="https://i.ibb.co/nc2Rc0T/CSR1.png">
     </figure>
-2. Under “Permissions”, turn on the permissions (You can scroll to these permissions, or search them in the search bar):
+2. Under “Permissions”, turn on the following (You can scroll to these permissions, or search them in the search bar):
+    <!-- Have an image of the permissions with the search bar highlighted -->
 > Under “General Server Permissions”:
 >
 >      “View Channels”
@@ -144,7 +151,7 @@ This section will teach you how to create and set up a Discord server for school
         <img src="https://i.ibb.co/LxJPd2J/CSR3-CMR3.png">
     </figure>
 
-#### Creating moderator roles
+#### Creating Moderator Roles
 
 1. Under “Display”, change the Role Name and Role Colour. (eg. Moderator, Set Rep).
     <figure markdown>
@@ -159,7 +166,7 @@ This section will teach you how to create and set up a Discord server for school
         <img src="https://i.ibb.co/LxJPd2J/CSR3-CMR3.png">
     </figure>
 
-#### Giving out roles
+#### Giving out Roles
 
 1. Click the profile picture of a user.
 2. Click the "+" button under "No Roles".

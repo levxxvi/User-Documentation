@@ -19,11 +19,11 @@ If you do not have it installed, please click [here](https://discord.com/downloa
 
 ## An Overview of Features:
 
-* ### Creating your own discord server
+* ### [Creating your own discord server](https://levxxvi.github.io/User-Documentation/task1/)
 
-* ### Customizing your discord server
+* ### [Customizing your discord server](https://levxxvi.github.io/User-Documentation/task2/)
 
-* ### Adding and using customized bots to your server
+* ### [Adding and using customized bots to your server](https://levxxvi.github.io/User-Documentation/task3/)
 
 ## Notes
 
