@@ -13,7 +13,7 @@
 | :---------- | :----------------------------------- |
 | `Create Invite`       |  Allows the bot to generate invites to your server |
 | `Read Messages`       | Allow the bot to read messages in the server (Important for commands) |
-| `Send Messages`    | Allow for the bot to respond to messages (Import for commands) |
+| `Send Messages`    | Allow for the bot to respond to messages (Important for commands) |
 | `Embed Links`    | Allow for the bot to send embedded links |
 | `Attach files`    | Allow for the bot to attach files to message responses |
 | `Read message history`    | Allow for the bot to read previous messages in the server |
