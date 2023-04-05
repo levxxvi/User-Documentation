@@ -12,18 +12,18 @@ Please download the [latest version of Discord](https://discord.com/download) an
 
 ## Using Material Mkdocs
 
-Our documentation is built with material Mkdocs allowing for a unique and modern customization.
+Our documentation is built with Material Mkdocs allowing for a unique and modern customization.
 
 
 ## User Documentation Navigation
 
-#### Introduction
+### Introduction
     -> Intended Users
     -> Prerequisite Knowledge
     -> An Overview of Features
     -> Notes
 
-#### Creating & Setting Up a School Server
+### Creating & Setting Up a School Server
     -> Overview
     -> Creating a Server
     -> Setting up your Server
@@ -33,7 +33,7 @@ Our documentation is built with material Mkdocs allowing for a unique and modern
         --> Giving out roles
     -> Conclusion
     -> Whats next?
-#### Customizing a new Discord Server
+### Customizing a new Discord Server
     -> Overview
     -> Accessing Server Settings
     -> Changing the Server Profile Picture
@@ -42,7 +42,7 @@ Our documentation is built with material Mkdocs allowing for a unique and modern
     -> Conclusion
     -> Whats next?
 
-#### Adding a Discord Bot to a Server
+### Adding a Discord Bot to a Server
     -> Overview
     -> Using Discord Bot Commands
     -> Removing a bot from a server
