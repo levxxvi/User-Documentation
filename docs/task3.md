@@ -27,7 +27,7 @@ In this section, the focus will be to add an existing customized discord bot to 
 
 3. Enter the URL into your browser.
 
-4. Select the server that you want to add the discord bot to. 
+4. Select the server that you want to add the discord bot to.
 
     <figure>
         <img src="https://i.ibb.co/G2kPkCN/Step3.png" alt="Step3" width="300px" style="margin-top: 20px; margin-bottom: 15px">
@@ -126,7 +126,7 @@ Permissions <b>must</b> be enabled to allow for certain bot features. Disabling 
         <img src="https://i.ibb.co/QrGczT8/image.png" alt="Step2" width="160px"style="margin-top: 30px; margin-bottom: 30px">
     </figure>
 
-!!! info "Additional Actions" 
+!!! info "Additional Actions"
     Other options are available as well including:
     <br></br>
     <b>Timeout "BOT NAME" </b>: Will timeout/cease bots function in the server for a specified amount of time

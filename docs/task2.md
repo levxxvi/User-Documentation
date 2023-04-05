@@ -26,7 +26,7 @@ This section will focus on several different features to customize a discord ser
     </figure>
 
 2. Click on the upload image button to select a new image to upload for the server profile picture.
-    
+
 3. Click on save changes.
     <figure>
         <img src="https://i.ibb.co/sWW95Zk/image.png" alt="Step3">
@@ -38,12 +38,11 @@ This section will focus on several different features to customize a discord ser
 
     !!! info "Refer to previous step"
         Refer to Step 1 of <i>Changing the Server Profile Picture</i>
- 
+
 2. Fill in a new server name in the input.
     <figure>
         <img src="https://i.ibb.co/ngbJCcK/image.png" alt="Step3">
     </figure>
- 
 
 3. Click on save changes.
     <figure>
@@ -55,7 +54,7 @@ This section will focus on several different features to customize a discord ser
 1. Access the server settings.
 
     !!! info "Refer to previous step"
-            Refer to <i>Accessing Server Settings</i> for reference. 
+            Refer to <i>Accessing Server Settings</i> for reference.
 
 2. Click on the sticker tab.
     <figure>
@@ -68,9 +67,8 @@ This section will focus on several different features to customize a discord ser
         <img src="https://i.ibb.co/9cm61yC/image.png" alt="Step2" style="margin-bottom:20px">
     </figure>
 
-
     !!! info "Sticker Slots"
-        Each server is allowed to have up to 5 sticker/GIF slots that can be uploaded. 
+        Each server is allowed to have up to 5 sticker/GIF slots that can be uploaded.
         Subsequent slots are unlocked by boosting the server status.
 
     !!!warning "What is Server Boosting?"
