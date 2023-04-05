@@ -33,8 +33,8 @@ In this section, the focus will be to add an existing customized discord bot to 
         <img src="https://i.ibb.co/G2kPkCN/Step3.png" alt="Step3" width="300px" style="margin-top: 20px; margin-bottom: 15px">
     </figure>
 
-    You must have the **Manage Server** permission enabled in your server. This setting should be already enabled when creating a new server. 
-
+    You must have the **Manage Server** permission enabled in your server. This setting should be already enabled when creating a new server.
+<br></br>
 5. Select the server permissions that the bot will have access to.  
 
 <figure>
@@ -42,25 +42,10 @@ In this section, the focus will be to add an existing customized discord bot to 
 </figure>
 
 <br></br>
-Permissions must be enabled to allow for certain features that the bot will do.
+Permissions <b>must</b> be enabled to allow for certain bot features. Disabling permissions may cause non functional commands.
 
-    > Create Invite - Allow the bot to generate invites to your server
-    >
-    > Read Messages - Allow the bot to read messages in the server (Important for  commands)
-    >
-    Send Message - Allow for the bot to respond to messages (Import for commands)
-    >
-    > Embed Links - Allow for the bot to send embedded links
-    >
-    > Attach files - Allow for the bot to attach files to message responses
-    >
-    > Read message history - Allow for the bot to read previous messages in the server
-    >
-    > Add reactions - Allow the bot to utilize emoji reactions in the server
-    >
-    > Use External Image - Allow the bot to use external images
-    >
-
+!!! warning "Discord Permissions"
+    Please refer to the <a href="../glossary">Glossary</a> for further information on each permission.
 <br></br>
 6. Click the authorize to confirm your settings and to add the discord bot to your server.
 
@@ -70,7 +55,6 @@ Permissions must be enabled to allow for certain features that the bot will do.
 
 <br></br>
 7. Await the authorized confirmation. Once it has appeared, you may close the browser/window.
-
 <figure>
     <img src="https://i.ibb.co/C2fv56d/Step6.png" alt="Step6" width="270px" style="margin-top: 30px">
 </figure>
@@ -78,13 +62,17 @@ Permissions must be enabled to allow for certain features that the bot will do.
 8. Confirm in your server that the discord bot has been added.
 
 <figure>
-    <img src="https://i.ibb.co/6XSmCDY/Step7.png" alt="Step7" width="500px" style="margin-top: 30px">
+    <img src="https://i.ibb.co/6XSmCDY/Step7.png" alt="Step7" width="500px" style="margin-top: 30px; margin-bottom: 40px">
 </figure>
+!!! info "Additional Information"
+    A discord bot will send a welcome message once it has arrived in your server. The message will contain useful information in helping you get started.
+    <br></br>
+    If there is no welcome message for your bot, the server will notify you that a new member (the bot) has joined the server.
 <br></br>
 9. Congratulations! You should now see the bot online in the list of server members on the right.
 
 <figure>
-    <img src="https://i.ibb.co/3v5jR8X/Step-7-1.png" alt="Step-7-1" width="390px" style="margin-top: 30px">
+    <img src="https://i.ibb.co/3v5jR8X/Step-7-1.png" alt="Step-7-1" width="390px" style="margin-top: 25px">
 </figure>
 
 ## Using Discord bot commands
@@ -97,31 +85,32 @@ Permissions must be enabled to allow for certain features that the bot will do.
         <img src="https://i.ibb.co/ZBxTD7T/Step-8-1.png" alt="Step-8-1" width="450px" style="margin-top: 15px; margin-bottom: 30px">
     </figure>
 
-    !!! info "Additional Information"
-        <b>About Me:</b> Information about the bot
-        <br>
-        <b>Member Since:</b> Date since the bot was a member of your serve
-        <br>
-        <b>Roles:</b> The roles/permissions that are given to the bot
         
 3. View information regarding your bots commands.
-<br></br>
 
+!!! warning "What is a bot command?"
+    Discord bot commands are customized, programmed commands that allow server users to access the bot's functionalities. Various bots will have different commands and usages.
+
+!!! info "Info"
+    Information on available commands for your customized bot can be found in the bot profile.
+    <br></br>
+    Most bots have a <i>/help</i> or <i>!help</i> that can be used to provide information on commands.
+<br></br>
 4. Type the desired command with the appropriate command prefix.
     <figure>
-        <img src="https://i.ibb.co/F6PcXSK/Step-8-05.png" alt="Step-8-05" >
+        <img src="https://i.ibb.co/F6PcXSK/Step-8-05.png" alt="Step-8-05" style="margin-top:35px; margin-bottom: 30px;">
     </figure>
 
-    !!! info "Additional Information"
-        Discord bot commands are entered through the message input.
-
+!!! info "Additional Information"
+    Discord bot commands are entered through the message input.
+<br></br>
 5. Press Enter to confirm your command.
     <figure>
         <img src="https://i.ibb.co/n60J3QJ/Step8-commands.png" alt="Step8-commands" style="margin-top: 30px; margin-bottom: 20px">
     </figure>
 
-    !!! info "Additional Information"
-        The bot will provide the corresponding function and feedback to confirm the status of the command.
+!!! info "Bot Command Feedback"
+    The bot will provide the corresponding function and feedback to confirm the status of the command.
 
 ## Removing a bot from a Server
 
@@ -138,7 +127,7 @@ Permissions must be enabled to allow for certain features that the bot will do.
         <img src="https://i.ibb.co/QrGczT8/image.png" alt="Step2" width="160px"style="margin-top: 30px; margin-bottom: 30px">
     </figure>
 
-!!! info "Additional Information" 
+!!! info "Additional Actions" 
     Other options are available as well including:
     <br></br>
     <b>Timeout "BOT NAME" </b>: Will timeout/cease bots function in the server for a specified amount of time

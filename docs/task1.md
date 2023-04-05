@@ -173,4 +173,8 @@ This section will teach you how to create and set up a Discord server for school
 
 ## Conclusion
 
-Congrats! You have now created and set up a school server.
+!!! success "Congratulations!"
+    You have now created and set up your very first school server.
+
+## Whats Next?
+Head over to <a href="../task2">Customizing a new Discord Server</a> to learn how you can further customize your new server.

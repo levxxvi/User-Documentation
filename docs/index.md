@@ -29,7 +29,7 @@ If you do not have it installed, please click [here](https://discord.com/downloa
 
 Throughout the documentation, you will notice several different block snippets to provide different types of information and status.
 
-!!! info "Additional Info"
+!!! info "Info"
     Indicates additional information within a step
 !!! warning "Definition"
     Indicates important information for context and definitions
