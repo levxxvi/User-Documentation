@@ -135,7 +135,7 @@ This section will teach you how to create and set up a Discord server for school
 >     “Connect”
 >     “Speak”
 >     “Video”
-    
+
     <figure markdown>
         <img src="https://i.ibb.co/TmpWf9t/CSR2.png">
     </figure>
