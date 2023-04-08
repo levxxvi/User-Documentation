@@ -2,23 +2,23 @@
 
 ## General
 
-| Definition     | Description                          |
+| Definition     | Definition                          |
 | :---------- | :----------------------------------- |
-| `Server`       |  A discord server is a communication platform that allows for multiple users to chat with one another.  |
-| `Discord bot`       | A discord bot is a customized program using discord's bot API that allows for developers to create various customized features for server users to interact with. |
+| `Server`       |  A communication platform that allows multiple users to chat with one another.  |
+| `Discord bot`       | A customized program with various customized features for server users to interact with. |
 | `PM` | Stands for Private Message, a chat between you and one other person. |
+| `Embedded Links` | A piece of text that redirects to the website address it holds. |
+| `External Images` | A image hosted on a site. |
 
 ## Discord Permissions
-<!-- Don't use the word in the explanation -->
 
-| Permission      | Description                          |
+| Permission      | Definition                          |
 | :---------- | :----------------------------------- |
-| `Create Invite`       |  Allow the bot to generate invites to your server |
-| `Read Messages`       | Allow the bot to read messages in the server (Important for commands) |
-| `Send Messages`    | Allow for the bot to respond to messages (Important for commands) |
-| `Embed Links`    | Allow for the bot to send embedded links |
-<!-- Explain what an embedded link is -->
-| `Attach files`    | Allow for the bot to attach files to message responses |
-| `Read message history`    | Allow for the bot to read previous messages in the server |
-| `Add reactions`    | Allow the bot to utilize emoji reactions in the server |
-| `Use External Image`    | Allow the bot to use external images |
+| `Create Invite`       |  Allows a bot to generate an invitation to allow others into your server. |
+| `Read Messages`       | Allows a bot to read the messages in the server (Important for commands). |
+| `Send Messages`    | Allows a bot to respond to messages (Important for commands). |
+| `Embed Links`    | Allows a bot to send embedded links. |
+| `Attach files`    | Allows a bot to attach files to message responses. |
+| `Read message history`    | Allows a bot to read previous messages in the server. |
+| `Add reactions`    | Allows a bot to use emoji reactions in the server. |
+| `Use External Image`    | Allows a bot to use external images. |
