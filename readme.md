@@ -18,22 +18,25 @@ Our documentation is built with material Mkdocs allowing for a unique and modern
 ## User Documentation Navigation
 
 #### Introduction
+
     -> Intended Users
     -> Prerequisite Knowledge
     -> An Overview of Features
     -> Notes
 
 #### Creating & Setting Up a School Server
+
     -> Overview
     -> Creating a Server
     -> Setting up your Server
     -> Marking Roles
-        --> Creating set roles
-        --> Creating moderator roles
+        --> Creating Custom Roles
         --> Giving out roles
     -> Conclusion
     -> Whats next?
+
 #### Customizing a new Discord Server
+
     -> Overview
     -> Accessing Server Settings
     -> Changing the Server Profile Picture
@@ -43,6 +46,7 @@ Our documentation is built with material Mkdocs allowing for a unique and modern
     -> Whats next?
 
 #### Adding a Discord Bot to a Server
+
     -> Overview
     -> Using Discord Bot Commands
     -> Removing a bot from a server

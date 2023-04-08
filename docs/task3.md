@@ -33,7 +33,7 @@ In this section, the focus will be to add an existing customized Discord bot to 
         <img src="https://i.ibb.co/G2kPkCN/Step3.png" alt="Step3" width="300px" style="margin-top: 20px; margin-bottom: 15px">
     </figure>
 
-    <!-- Make this a warning -->
+!!! warning "Discord Permissions"
     You must have the **Manage Server** permission enabled in your server. This setting should be already enabled when creating a new server.
 <br></br>
 5. Select the server permissions that the bot will have access to.  
@@ -43,11 +43,9 @@ In this section, the focus will be to add an existing customized Discord bot to 
 </figure>
 
 <br></br>
-    <!-- You can include this in the Warning box below -->
-Permissions <b>must</b> be enabled to allow for certain bot features. Disabling permissions may cause non functional commands.
 
 !!! warning "Discord Permissions"
-    Please refer to the <a href="../glossary">Glossary</a> for further information on each permission.
+    Permissions <b>must</b> be enabled to allow for certain bot features. Disabling permissions may cause non functional commands. Please refer to the <a href="../glossary">Glossary</a> for further information on each permission.
 <br></br>
 6. Click the authorize to confirm your settings and to add the Discord bot to your server.
 
@@ -71,12 +69,12 @@ Permissions <b>must</b> be enabled to allow for certain bot features. Disabling 
     <br>
     If there is no welcome message for your bot, the server will notify you that a new member (the bot) has joined the server.
 <br>
-    <!-- Success box -->
-9. Congratulations! You should now see the bot online in the list of server members on the right.
 
-<figure>
-    <img src="https://i.ibb.co/3v5jR8X/Step-7-1.png" alt="Step-7-1" width="390px" style="margin-top: 25px">
-</figure>
+!!! success "Congratulations!"
+    You should now see the bot online in the list of server members on the right.
+    <figure>
+        <img src="https://i.ibb.co/3v5jR8X/Step-7-1.png" alt="Step-7-1" width="390px" style="margin-top: 25px">
+    </figure>
 
 ## Using Discord Bot Commands
 
@@ -137,5 +135,5 @@ Permissions <b>must</b> be enabled to allow for certain bot features. Disabling 
     <b>Ban "BOT NAME" </b>: The bot remains in the server, but is banned from accessing any permissions
 
 ## Conclusion
-<!-- Add a success box -->
-Congratulations! You have successfully added a custom discord bot to your server!
+!!! success "Congratulations!"
+    Congratulations! You have successfully added a custom discord bot to your server!

@@ -1,4 +1,4 @@
-# Creating & Setting Up a School Server
+# Creating a School Server
 
 ## Overview
 
@@ -27,7 +27,9 @@ This section will teach you how to create and set up a Discord server for school
         <img src="https://i.ibb.co/44GwG23/Screen-Shot-2023-03-28-at-9-56-19-AM.png">
     </figure>
 5. Navigate to the location of the image you desire as a server photo and click "Open".
-    <!-- todo: Add an image here? -->
+    <figure markdown>
+        <img src="https://i.ibb.co/7NL7yhJ/Screen-Shot-2023-04-08-at-2-02-01-PM.png">
+    </figure>
 6. Change the server name.
     <figure markdown>
         <img src="https://i.ibb.co/R3H40fz/Screen-Shot-2023-03-28-at-9-56-53-AM.png">
@@ -37,15 +39,13 @@ This section will teach you how to create and set up a Discord server for school
         <img src="https://i.ibb.co/kh1rZ31/Screen-Shot-2023-03-28-at-9-57-11-AM.png">
     </figure>
 8. Click the down arrow next to the server name to open up the "Server Settings" menu.
-    <!-- todo: Annotate where "Server Settings" is -->
     <figure markdown>
         <img src="https://i.ibb.co/qCGGjr3/Screen-Shot-2023-03-28-at-9-58-17-AM.png">
         <br>
-        <img src="https://i.ibb.co/ZH5x7D8/Screen-Shot-2023-03-28-at-9-58-26-AM.png">
+        <img src="https://i.ibb.co/Wpztc60/MR1.png">
     </figure>
 
 ### Setting up your Server
-<!-- todo: Move this to Task 2 -->
 1. Click "Enable Community".
     <figure markdown>
         <img src="https://i.ibb.co/7GxC9cj/SUS1.png">
@@ -71,23 +71,31 @@ This section will teach you how to create and set up a Discord server for school
         <img src="https://i.ibb.co/5x26PFT/SUS6.png">
     </figure>
 7. Click "Set up Welcome Screen".
-    <!-- todo: Add an image for where the button for set up welcome screen is -->
     <figure markdown>
+        <img src="https://i.ibb.co/9ZsDvWn/SUS6-copy.png">
+        <br>
         <img src="https://i.ibb.co/m9M3pmL/SUS7.png">
         <br>
         <img src="https://i.ibb.co/yX6sNFg/SUS9.png">
     </figure>
 8. Add a description for the server.
-    <!-- todo: Why do they need to add a description -->
     <figure markdown>
         <img src="https://i.ibb.co/9Gpgv4T/SUS8-copy.png">
     </figure>
+
+    !!! info "What's the use of a server description?"
+        A server description acts as a summary or brief introduction to your server
+
 9. Enable the changes.
     <figure markdown>
         <img src="https://i.ibb.co/T8FxdBH/SUS8.png">
     </figure>
-10. Add your own server rules to #rules.
-    <!-- todo: Navigate back to server channels -->
+10. Leave the settings page, and navigate to the #rules channel.
+    <figure markdown>
+        <img src="https://i.ibb.co/WFGVzxB/Screen-Shot-2023-04-08-at-3-18-15-PM.png"> <br>
+        <img src="https://i.ibb.co/zbK1hwH/Screen-Shot-2023-04-08-at-3-16-57-PM.png">
+    </figure>
+11. Add your own server rules to #rules.
     <figure markdown>
         <img src="https://i.ibb.co/C9Zrr1Y/SUS10.png">
     </figure>
@@ -107,15 +115,13 @@ This section will teach you how to create and set up a Discord server for school
         <img src="https://i.ibb.co/HB1SKhW/MR3.png">
     </figure>
 
-#### Creating Set Roles
+#### Creating Custom Roles
 
-<!-- todo: Creating custom roles as a general on, and then have an info box that says "If you want to have mod roles, you can give them the administrator permission" -->
 1. Under “Display”, change the Role Name and Role Colour. (eg. Set A, Set B).
     <figure markdown>
         <img src="https://i.ibb.co/nc2Rc0T/CSR1.png">
     </figure>
 2. Under “Permissions”, turn on the following (You can scroll to these permissions, or search them in the search bar):
-    <!-- todo: Have an image of the permissions with the search bar highlighted -->
 > Under “General Server Permissions”:
 >
 >      “View Channels”
@@ -144,26 +150,17 @@ This section will teach you how to create and set up a Discord server for school
 >     “Video”
 
     <figure markdown>
-        <img src="https://i.ibb.co/TmpWf9t/CSR2.png">
+        <img src="https://i.ibb.co/JzN5sGy/CSR2.png">
     </figure>
 3. Save your changes.
     <figure markdown>
         <img src="https://i.ibb.co/LxJPd2J/CSR3-CMR3.png">
     </figure>
-
-#### Creating Moderator Roles
-
-1. Under “Display”, change the Role Name and Role Colour. (eg. Moderator, Set Rep).
-    <figure markdown>
-        <img src="https://i.ibb.co/42YSzss/CMR1.png">
-    </figure>
-2. Under “Permissions”, scroll until the bottom and enable "Administrator".
+!!! info "Moderator Roles"
+    If you want to have a moderator, someone who keeps the rules and upholds the safety of the server, you can give their role the "Administrator" permission. <br>
+    Under “Permissions”, scroll until the bottom and enable "Administrator".
     <figure markdown>
         <img src="https://i.ibb.co/VL30XnW/CMR2.png">
-    </figure>
-3. Save your changes.
-    <figure markdown>
-        <img src="https://i.ibb.co/LxJPd2J/CSR3-CMR3.png">
     </figure>
 
 #### Giving out Roles
