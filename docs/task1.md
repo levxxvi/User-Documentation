@@ -36,7 +36,7 @@ This section will teach you how to create and set up a Discord server for school
     <figure markdown>
         <img src="https://i.ibb.co/kh1rZ31/Screen-Shot-2023-03-28-at-9-57-11-AM.png">
     </figure>
-8. Click the down arrow next to the server name to open up the server settings menu.
+8. Click the down arrow next to the server name to open up the "Server Settings" menu.
     <!-- todo: Annotate where "Server Settings" is -->
     <figure markdown>
         <img src="https://i.ibb.co/qCGGjr3/Screen-Shot-2023-03-28-at-9-58-17-AM.png">
@@ -92,7 +92,7 @@ This section will teach you how to create and set up a Discord server for school
         <img src="https://i.ibb.co/C9Zrr1Y/SUS10.png">
     </figure>
 
-### Making roles
+### Making Roles
 
 1. Click on "Server Settings".
     <figure markdown>
